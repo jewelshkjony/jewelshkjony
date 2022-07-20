@@ -4,9 +4,11 @@ I'm Jewel, an android developer from Bangladesh. Also extension developer for Ko
 
 ## 📫 How to reach me: ...
 
-<a href="https://t.me/jewelshkjony">Telegram</a> - <a href="https://wa.me/8801775668913">WhatsApp</a> - <a href="https://fb.com/jewelshkjony">Facebook</a> - <a href="https://m.me/jewelshkjony">Messenger</a>
+<a href="https://t.me/jewelshkjony">Telegram</a> | <a href="https://wa.me/8801775668913">WhatsApp</a> | <a href="https://fb.com/jewelshkjony">Facebook</a> | <a href="https://m.me/jewelshkjony">Messenger</a>
 
 ## Payment Gateway
+<a href="https://www.xoom.com/bangladesh/send-money">Xoom</a> | <a href="https://wise.com/">TansferWise (Wise)</a>
+
 Use this phone number to pay me from Bangladesh.
 
 ````java
