@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Jewel, an android developer from Bangladesh. Also extension developer for Kodular, Niotron, App Inventor and it's other distributions. I love to learning & sharing my knowledge with others.
+I'm Jewel, an android developer from Bangladesh. Also extension developer for Kodular, Niotron, AppZard, Androidbuilder, App Inventor and it's other distributions. I love to learning & sharing my knowledge with others.
 
 ## 📫 How to reach me: ...
 
