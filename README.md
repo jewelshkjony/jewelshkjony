@@ -6,9 +6,9 @@ I'm <a href="https://fb.com/jewelshkjony">Jewel</a>, an Android developer from <
 <li> <a href="https://en.m.wikipedia.org/wiki/Java_(programming_language)">Java</a>
 <li> <a href="https://en.m.wikipedia.org/wiki/Kotlin_(programming_language)">Kotlin</a>
 
-## 📫 How to reach me: ...
+## 📫 How to reach me -
 
-<a href="https://t.me/jewelshkjony">Telegram</a> | <a href="https://wa.me/8801775668913">WhatsApp</a> | <a href="https://fb.com/jewelshkjony">Facebook</a> | <a href="https://m.me/jewelshkjony">Messenger</a>
+<a href="https://t.me/jewelshkjony">Telegram</a> | <a href="https://wa.me/8801775668913">WhatsApp</a> | <a href="https://fb.com/jewelshkjony">Facebook</a> | <a href="https://m.me/jewelshkjony">Messenger</a> | <a href="https://m.youtube.com/c/JewelShikderJony">Youtube</a>
 
 ## Global Payment Method
 <a href="https://www.xoom.com/bangladesh/send-money">Xoom</a> | <a href="https://wise.com/">TansferWise (Wise)</a>
