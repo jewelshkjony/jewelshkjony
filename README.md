@@ -26,4 +26,6 @@ Remember accounts are personal, so you've to use send money option.
 ## My Github Stats
 <p align=left> <img src="https://komarev.com/ghpvc?username=jewelshkjony" alt="jewelshkjony" /> </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jewelshkjony&layout=compact)](https://github.com/jewelshkjony?tab=repositories)
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=jewelshkjony&show_icons=true&include_all_commits=true)
