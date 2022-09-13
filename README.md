@@ -2,23 +2,22 @@
 
 I'm <a href="https://fb.com/jewelshkjony">Jewel</a>, an Android developer from <a href="https://www.google.com/maps/d/viewer?mid=1uqIMEpQ95Gk-80-q9CMiU-qtjuw&hl=en_US&ll=22.71941324417571%2C91.59988509969561&z=7">Bangladesh</a>. Also extension developer for <a href="https://www.kodular.io/">Kodular</a>, <a href="https://niotron.com/">Niotron</a>, <a href="https://appzard.com/">AppZard</a>, <a href="https://androidbuilder.in/">Androidbuilder</a>, <a href="https://appinventor.mit.edu/">App Inventor</a> and it's other distributions. I love to learning & sharing my knowledge with others.
 
-## My Extensions
+## My Extensions ↓
 
-<a href="https://github.com/jewelshkjony?tab=repositories">See All Extensions</a>
+➤ <a href="https://github.com/jewelshkjony?tab=repositories">See All Available Extensions</a>
 
 ### 👨‍💻 Programming Languages
-<li> <a href="https://en.m.wikipedia.org/wiki/Java_(programming_language)">Java</a>
-<li> <a href="https://en.m.wikipedia.org/wiki/Kotlin_(programming_language)">Kotlin</a>
+☼ <a href="https://en.m.wikipedia.org/wiki/Java_(programming_language)">Java</a> | <a href="https://en.m.wikipedia.org/wiki/Kotlin_(programming_language)">Kotlin</a>
 
-### 📫 How to reach me -
+### 📫 How to reach me ↓
 
 <a href="https://t.me/jewelshkjony">Telegram</a> | <a href="https://wa.me/8801775668913">WhatsApp</a> | <a href="https://fb.com/jewelshkjony">Facebook</a> | <a href="https://m.me/jewelshkjony">Messenger</a> | <a href="https://m.youtube.com/c/JewelShikderJony?sub_confirmation=1">Youtube</a>
 
-### 💲 Payment Methods -
+### 💲 Payment Methods ↓
 
-<a href="https://www.xoom.com/bangladesh/send-money">Xoom</a> | <a href="https://wise.com/">Wise</a> | <a href="https://play.google.com/store/apps/details?id=com.jewelshkjony.pay2me">Pay2Me</a>
+❏ <a href="https://www.xoom.com/bangladesh/send-money">Xoom</a> | <a href="https://wise.com/">Wise</a> | <a href="https://play.google.com/store/apps/details?id=com.jewelshkjony.pay2me">Pay2Me</a> (International)
 
-<a href="https://bka.sh/next?c=signup&uuid=C1CC9JVT1">bkash</a> | <a href="https://play.google.com/store/apps/details?id=com.konasl.nagad">Nagad</a> | <a href="https://play.google.com/store/apps/details?id=com.dbbl.mbs.apps.main">Rocket</a>
+❏ <a href="https://bka.sh/next?c=signup&uuid=C1CC9JVT1">bkash</a> | <a href="https://play.google.com/store/apps/details?id=com.konasl.nagad">Nagad</a> | <a href="https://play.google.com/store/apps/details?id=com.dbbl.mbs.apps.main">Rocket</a> (Bangladesh)
 
 <br>
 
