@@ -9,11 +9,11 @@ I'm <a href="https://fb.com/jewelshkjony">Jewel</a>, an Android developer from <
 ### 👨‍💻 Programming Languages
 ☼ <a href="https://en.m.wikipedia.org/wiki/Java_(programming_language)">Java</a> | <a href="https://en.m.wikipedia.org/wiki/Kotlin_(programming_language)">Kotlin</a>
 
-### 📫 How to reach me ↓
+## 📫 How to reach me ↓
 
 <a href="https://t.me/jewelshkjony">Telegram</a> | <a href="https://wa.me/8801775668913">WhatsApp</a> | <a href="https://fb.com/jewelshkjony">Facebook</a> | <a href="https://m.me/jewelshkjony">Messenger</a> | <a href="https://m.youtube.com/c/JewelShikderJony?sub_confirmation=1">Youtube</a>
 
-### 💲 Payment Methods ↓
+## 💲 Payment Methods ↓
 
 ❏ <a href="https://www.xoom.com/bangladesh/send-money">Xoom</a> | <a href="https://wise.com/">Wise</a> | <a href="https://play.google.com/store/apps/details?id=com.jewelshkjony.pay2me">Pay2Me</a> (International)
 
