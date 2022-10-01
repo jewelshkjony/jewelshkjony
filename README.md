@@ -15,12 +15,11 @@ I'm <a href="https://fb.com/jewelshkjony">Jewel</a>, an Android developer from <
 
 ## 💲 Payment Methods ↓
 
-❏ <a href="https://www.xoom.com/bangladesh/send-money">Xoom</a> | <a href="https://wise.com/">Wise</a> | <a href="https://play.google.com/store/apps/details?id=com.jewelshkjony.pay2me">Pay2Me</a> (International)
+❏ <a href="https://www.xoom.com/bangladesh/send-money">Xoom</a> | <a href="https://wise.com/?sourceCurrency=USD&targetCurrency=BDT&sourceAmount=20">Wise</a> | <a href="https://www.binance.me/en/activity/referral-entry/CPA?fromActivityPage=true&ref=CPA_0068YL77KV">Binance</a> | <a href="https://play.google.com/store/apps/details?id=com.jewelshkjony.pay2me">Pay2Me</a> (Global)
 
 ❏ <a href="https://bka.sh/next?c=signup&uuid=C1CC9JVT1">bkash</a> | <a href="https://play.google.com/store/apps/details?id=com.konasl.nagad">Nagad</a> | <a href="https://play.google.com/store/apps/details?id=com.dbbl.mbs.apps.main">Rocket</a> (Bangladesh)
 
 <br>
-
 <details>
 <summary> 🥇 Github Stats</summary>
 <br>
