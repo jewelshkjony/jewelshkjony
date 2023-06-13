@@ -1,13 +1,13 @@
 # Hi there 👋
 
-I'm <a href="https://fb.com/jewelshkjony">Jewel</a>, an Android developer from <a href="https://www.google.com/maps/d/viewer?mid=1uqIMEpQ95Gk-80-q9CMiU-qtjuw&hl=en_US&ll=22.71941324417571%2C91.59988509969561&z=7">Bangladesh</a>. Also extension developer for <a href="https://www.kodular.io/">Kodular</a>, <a href="https://niotron.com/">Niotron</a>, <a href="https://appzard.com/">AppZard</a>, <a href="https://androidbuilder.in/">Androidbuilder</a>, <a href="https://appinventor.mit.edu/">App Inventor</a> and it's other distributions. I love to learning & sharing my knowledge with others.
+I'm <a href="https://fb.com/jewelshkjony" target="_blank">Jewel</a>, an Android developer from <a href="https://www.google.com/maps/d/viewer?mid=1uqIMEpQ95Gk-80-q9CMiU-qtjuw&hl=en_US&ll=22.71941324417571%2C91.59988509969561&z=7" target="_blank">Bangladesh</a>. Also extension developer for <a href="https://www.kodular.io/" target="_blank">Kodular</a>, <a href="https://niotron.com/" target="_blank">Niotron</a>, <a href="https://appzard.com/" target="_blank">AppZard</a>, <a href="https://androidbuilder.in/" target="_blank">Androidbuilder</a>, <a href="https://appinventor.mit.edu/" target="_blank">App Inventor</a> and it's other distributions. I love to learning & sharing my knowledge with others.
 
 ## My Extensions ↓
 
-➤ <a href="https://github.com/jewelshkjony?tab=repositories">See All Available Extensions</a>
+➤ <a href="https://github.com/jewelshkjony?tab=repositories" target="_blank">See All Available Extensions</a>
 
 ### 👨‍💻 Programming Languages
-☼ <a href="https://en.m.wikipedia.org/wiki/Java_(programming_language)">Java</a> | <a href="https://en.m.wikipedia.org/wiki/Kotlin_(programming_language)">Kotlin</a>
+☼ <a href="https://en.m.wikipedia.org/wiki/Java_(programming_language)" target="_blank">Java</a> | <a href="https://en.m.wikipedia.org/wiki/Kotlin_(programming_language)" target="_blank">Kotlin</a>
 
 ### 👨‍💻 Play Console Developer Page
 🔗 <a href="https://play.google.com/store/apps/dev?id=6708953084899676957" target="_blank">Jewel Shikder Jony</a>
@@ -18,9 +18,9 @@ I'm <a href="https://fb.com/jewelshkjony">Jewel</a>, an Android developer from <
 
 ## 💲 Payment Methods ↓
 
-❏ <a href="https://www.binance.me/en/activity/referral-entry/CPA?fromActivityPage=true&ref=CPA_0068YL77KV" target="_blank">Binance</a> | <a href="https://www.skrill.com/en/">Skrill</a> | <a href="https://wise.com/?sourceCurrency=USD&targetCurrency=BDT&sourceAmount=20" target="_blank">Wise</a> | <a href="https://play.google.com/store/apps/details?id=com.pyypl">Pyypl</a> | <a href="https://www.xoom.com/bangladesh/send-money" target="_blank">Xoom</a> | <a href="https://play.google.com/store/apps/details?id=com.jewelshkjony.pay2me">Pay2Me</a>
+❏ <a href="https://www.binance.me/en/activity/referral-entry/CPA?fromActivityPage=true&ref=CPA_0068YL77KV" target="_blank">Binance</a> | <a href="https://www.skrill.com/en/" target="_blank">Skrill</a> | <a href="https://wise.com/?sourceCurrency=USD&targetCurrency=BDT&sourceAmount=20" target="_blank">Wise</a> | <a href="https://play.google.com/store/apps/details?id=com.pyypl" target="_blank">Pyypl</a> | <a href="https://www.xoom.com/bangladesh/send-money" target="_blank">Xoom</a> | <a href="https://play.google.com/store/apps/details?id=com.jewelshkjony.pay2me" target="_blank">Pay2Me</a> | <a href="https://www.paypal.com/" target="_blank">Paypal</a>
 
-❏ <a href="https://bka.sh/next?c=signup&uuid=C1CC9JVT1" target="_blank">bkash</a> | <a href="https://play.google.com/store/apps/details?id=com.konasl.nagad">Nagad</a> | <a href="https://play.google.com/store/apps/details?id=com.dbbl.mbs.apps.main">Rocket</a> (Bangladesh)
+❏ <a href="https://bka.sh/next?c=signup&uuid=C1CC9JVT1" target="_blank">bkash</a> | <a href="https://play.google.com/store/apps/details?id=com.konasl.nagad" target="_blank">Nagad</a> | <a href="https://play.google.com/store/apps/details?id=com.dbbl.mbs.apps.main" target="_blank">Rocket</a> | Bank Payment (Bangladesh)
 
 <br>
 <details>
