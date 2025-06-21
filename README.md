@@ -4,7 +4,7 @@ I'm <a href="https://fb.com/jewelshkjony" target="_blank">Jewel</a>, an Android 
 
 ## My Extensions ↓
 
-➤ <a href="https://github.com/jewelshkjony?tab=repositories" target="_blank">See All Available Extensions</a>
+➤ <a href="https://buymeacoffee.com/jewelshkjony/extras" target="_blank">See All Available Extensions</a>
 
 ### 👨‍💻 Programming Languages
 ☼ <a href="https://en.m.wikipedia.org/wiki/Java_(programming_language)" target="_blank">Java</a> | <a href="https://en.m.wikipedia.org/wiki/Kotlin_(programming_language)" target="_blank">Kotlin</a>
