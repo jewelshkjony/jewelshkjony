@@ -8,7 +8,7 @@ I'm <a href="https://fb.com/jewelshkjony" target="_blank">Jewel</a>, an Android 
 ☼ <a href="https://en.m.wikipedia.org/wiki/Java_(programming_language)" target="_blank">Java</a> | <a href="https://en.m.wikipedia.org/wiki/Kotlin_(programming_language)" target="_blank">Kotlin</a> | <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank">JavaScript</a>
 
 ## 📫 How to reach me ↓
-<a href="https://t.me/jewelshkjony" target="_blank">Telegram</a> | <a href="https://wa.me/8801775668913" target="_blank">WhatsApp</a> | <a href="https://fb.com/jewelshkjony" target="_blank">Facebook</a> | <a href="https://m.me/jewelshkjony" target="_blank">Messenger</a> | <a href="https://m.youtube.com/c/JewelShikderJony?sub_confirmation=1" target="_blank">Youtube</a>
+[Telegram](https://t.me/jewelshkjony) | [WhatsApp](https://wa.me/jewelshkjony) | [Discord](https://discordapp.com/users/795698765959790632) | [Messenger](https://m.me/jewelshkjony) | [Facebook](https://fb.com/jewelshkjony) | [YouTube](https://youtube.com/@jewelshkjony) | [Buymeacoffee](https://buymeacoffee.com/jewelshkjony) | [GitHub](https://github.com/jewelshkjony/) | [TikTok](https://www.tiktok.com/@jewelshkjony)
 
 ## 🥇 Github Stats
 <p align=left> <img src="https://komarev.com/ghpvc?username=jewelshkjony" alt="jewelshkjony" /> </p>
